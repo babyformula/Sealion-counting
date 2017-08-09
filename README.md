@@ -13,6 +13,8 @@ It contains:<br>
 * Test/*.jpg: a set of test images, with each filename corresponding to a test_id<br>
 
 Here only several train pics were uploaded to this git because the whole dataset is quite a bit huge, and the validation and enhancement of this model was priority in this git. Definitely you can download the dataset from above link.<br>
+
+Unzip the dataset file and put them under the folder 'input', here you can find a editorial coordinates csv file offered by a kaggler (also could be found in the kernel tab).
 ### 1.2 Method
 Basic method to achieve data preprocessing, classification, and crowd counting has already been realized in the Notebook file Deepcrowd_sealion.ipynb, and of course was written in python.<br>
 Descriptions for each fuction in the Notebook file could also be found above their own section part.<br>
